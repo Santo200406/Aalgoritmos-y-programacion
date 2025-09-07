@@ -1,4 +1,5 @@
-// Escribir un algoritmo que sume dos números: A = 4  B = 3
+//Santiago Carbajal 00654500
+// Escribir un algoritmo que sume dos nÃºmeros: A = 4  B = 3
 Algoritmo SEC01
     Definir A, B, C Como Enteros;
 	
@@ -12,3 +13,4 @@ Algoritmo SEC01
     // Muestra el valor de "C" en la consola
     Escribir C;
 FinAlgoritmo
+
