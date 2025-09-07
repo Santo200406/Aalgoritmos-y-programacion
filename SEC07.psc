@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo SEC07
 	Definir radio, longitu, area Como Real
 	Definir P Como Real
@@ -9,6 +10,7 @@ Algoritmo SEC07
 	longitu <- 2 * PI * radio
 	area <- PI * radio * radio
 	
-	Escribir "Longitud (perímetro) = ", longitu
-	Escribir "Área = ", area
+	Escribir "Longitud (perÃ­metro) = ", longitu
+	Escribir "Ãrea = ", area
+
 FinAlgoritmo
