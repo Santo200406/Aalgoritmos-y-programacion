@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo SEC10
 	Definir A, B, C, resultado Como Real
 	//lectura de datos
@@ -14,4 +15,5 @@ Algoritmo SEC10
 		resultado <- (A + 7 * C) / (B + 2 - A) + 2 * B
 		Escribir "Resultado = ", resultado
 	FinSi
+
 FinAlgoritmo
