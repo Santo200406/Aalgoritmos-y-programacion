@@ -1,3 +1,4 @@
+//Santiago Carbajal 00604500
 Algoritmo SEC09
 	Definir radio, volumen, P Como Real
 	P <- 3.14159265
@@ -8,4 +9,5 @@ Algoritmo SEC09
 	volumen <- (4/3) * PI * radio * radio * radio
 	
 	Escribir "El volumen de la esfera es: ", volumen
+
 FinAlgoritmo
